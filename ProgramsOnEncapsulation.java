@@ -34,7 +34,7 @@ class Student {
 	}
 	
   /* Getters
-   * Methods which returns the value of data memebrs outside the class such
+   * Methods which returns the value of data members outside the class such
    * methods are called as Getters
    */
 	public int getAge() {
