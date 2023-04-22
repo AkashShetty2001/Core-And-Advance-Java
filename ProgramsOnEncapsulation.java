@@ -45,7 +45,7 @@ class Student {
 		return name;
 	}
 
-	public String getCity() {
+	public String getCity() { 
 		return city;
 	}
 
