@@ -5,7 +5,7 @@
 /* 1.Static elements do not depend on objects.
  * 2.usage of instance variables in static block,methods leads to CTE..
  * 3.Static blocks  are used to initialize static variables.
- * 4.static variables and static block will be executed automatically during class loading sub system stage..
+ * 4.static variables and static block will be executed automatically during class loading..
  */
 
 
