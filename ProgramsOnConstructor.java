@@ -42,7 +42,7 @@ public class ProgramsOnConstructor {
 	public static void main(String args[])
 	{
 		Dog d = new Dog(10000,"Golden Retriver");
-		Dog d1 = new Dog(10000);
+		//Dog d1 = new Dog(10000);
 		System.out.println(d.getName());
 		System.out.println(d.getCost());
 		
