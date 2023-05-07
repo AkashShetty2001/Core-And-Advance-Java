@@ -2,13 +2,18 @@ package HasARealationship;
 
 //Primitive value/Objects Injection.
 
+/*Dependency injection can be achieved in 2 ways
+ * a.constructor Dependency injection 
+ * b.Setters Dependency Injection
+ */
+
 public class Student {
 	//instance variables
 	private String sname;
 	private Integer sage;
 	private Integer sid;
 	
-	//constructor
+	//a.constructor Dependency injection 
 	public Student(String sname,Integer sage,Integer sid) {
 		super();
 		this.sname=sname;
@@ -16,6 +21,7 @@ public class Student {
 		this.sid=sid;
 		}
 	
+	/* b.Setters Dependency Injection
 	//setters and getters 
 	public String getSname() {
 		return sname;
@@ -35,7 +41,7 @@ public class Student {
 	}
 	public void setSid(Integer sid) {
 		this.sid = sid;
-	}
+	}*/
 	
 	@Override
 	public String toString() {
