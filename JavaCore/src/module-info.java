@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Aakash
+ *
+ */
+module JavaCore {
+}
