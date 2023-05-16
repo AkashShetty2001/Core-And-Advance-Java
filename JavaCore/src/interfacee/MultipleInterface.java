@@ -2,6 +2,7 @@ package interfacee;
 
 
 /*one class can extend only one class at a time.
+
  * case 1: one class can implements any number of interface at a time.
  * case 2: class can extend as well as can implement a interface.
  * case 3: a class can extend a class and can implements any number of interfaces.
