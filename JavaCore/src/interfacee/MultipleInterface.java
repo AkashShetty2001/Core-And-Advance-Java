@@ -101,6 +101,7 @@ class Sampleimpl1 implements IDemo33{
 
 public class MultipleInterface {
 	public static void main(String[] args) {
+		
 		/*case 1
 		 * Demoimpl obj1= new Demoimpl();
 		 * obj1.m1();

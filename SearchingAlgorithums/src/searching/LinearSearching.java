@@ -6,7 +6,7 @@ public class LinearSearching {
 	public static void main(String[] args) 
 	{
 		int nums[]= {10,20,30,40,50};
-		int target=10;
+		int target=100;
 		int ans=linearSearch(nums,target);
 		System.out.println(ans);
 		
